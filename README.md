@@ -20,5 +20,6 @@ This repository is dedicated to providing resources, tutorials, and code example
 
 Feel free to explore the repository and dive into different topics, including setting up development environments, building RESTful APIs, integrating databases, user authentication, error handling, file uploads, third-party API integration, deployment strategies, best practices, and performance optimization.
 
+![0_GKIyAWHbKbANm7d9](https://github.com/philomathtanya/BackendSeries_CB/assets/72347751/ec67b475-79bc-4ef2-8245-b4a0c20f8505)
 
 Happy learning and happy Coding
